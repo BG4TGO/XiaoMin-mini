@@ -5,11 +5,11 @@ config system
 	option urandom_seed '0'
 	option timezone 'CST-8'
 	option zonename 'Asia/Shanghai'
-	option hostname 'XiaoMi'
+	option hostname 'DRCC'
 	option log_proto 'udp'
 	option conloglevel '8'
 	option cronloglevel '5'
-	option description '小米Mini路由器MMDVM数字热点'
+	option description 'MMDVM'
 	option notes '感谢BD7MQB老师的源码'
 
 config timeserver 'ntp'
