@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "MMDVM"
-luciversion = "2023.09.25"
+luciname    = "Nano-DV"
+luciversion = "2023.10.01"
